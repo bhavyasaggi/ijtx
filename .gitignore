@@ -1,0 +1,15 @@
+# node_modules
+node_modules
+npm-debug.log
+
+
+# OS thumbnails
+.DS_Store
+.DS_Store?
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# build
+dist/

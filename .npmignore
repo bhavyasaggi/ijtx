@@ -1,0 +1,10 @@
+# config
+.gitignore
+babel.config.js
+
+# support
+test
+docs
+
+# source
+src
